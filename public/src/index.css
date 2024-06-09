@@ -1,0 +1,12 @@
+#root { 
+  margin: 40px;
+  padding: 40px;
+}
+body {
+  background: rgb(153, 168, 163);
+}
+
+.d-flex {
+  display: flex;
+  justify-content: center;
+}
